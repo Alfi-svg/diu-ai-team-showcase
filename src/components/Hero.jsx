@@ -19,7 +19,7 @@ export default function Hero() {
 
         <div className="heroActions">
           <a href="#mentors" className="primaryBtn">
-            Meet Mentors <FaArrowRight />
+            Meet Mentors 
           </a>
           <a href="#developers" className="secondaryBtn">
             Meet Developers
@@ -27,7 +27,7 @@ export default function Hero() {
         </div>
 
         <div className="heroStats">
-          <div><FaUserTie /><b>3</b><span>Mentors</span></div>
+          <div><FaUserTie /><b>3</b><span>Mentors</span></div>200
           <div><FaCode /><b>5</b><span>Developers</span></div>
           <div><FaUsers /><b>DIU</b><span>Team Showcase</span></div>
         </div>
